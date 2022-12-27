@@ -10,3 +10,5 @@ Theme : Clothes Shop
 - Calculate data at times, on specific process
 - Absolutely in GUI :v
 - Show Data
+
+### written in Indonesian language
