@@ -1,6 +1,6 @@
 # TokoBaju
 just your ordinary college assignment.<br>
-a simple Java GUI CRUD program made with `Java Swing and JDBC based OOP` <br>
+a simple Java GUI CRUD program made with `Java Swing and JDBC based on OOP` <br>
 <br>Theme : Clothes Shop
 
 ## Features
