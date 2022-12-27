@@ -11,4 +11,11 @@ a simple Java GUI CRUD program made with `Java Swing and JDBC based OOP` <br>
 - Absolutely in GUI :v
 - Show Data
 
+## How to Use ?
+- Developed this project on Netbeans, so make new project and just copy this repo to the netbeans project folder.
+- Using `mysql jdbc driver` so make sure these library available on your pc and your newly created project
+- Make new database and import the `dbpbo.sql` file on your mysql
+- Open `DBHelper.java` on your source packages and match the database url at `bukaKoneksi` method
+- Open the frontend folder on netbeans project panel, run the `Depan.java` named file on netbeans
+
 ### written in Indonesian language
